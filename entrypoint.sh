@@ -55,6 +55,10 @@ cat > $SETTINGS/settings.json <<EOF
     "highlighting": {
         "blacklistedUsers": "\n"
     },
+    "emotes": {
+        "scale": 1.0,
+        "enableGifAnimations": false
+    },
     "logging": {
         "enabled": true,
         "path": "/logs"
